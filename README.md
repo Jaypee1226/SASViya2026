@@ -12,11 +12,8 @@ This repository contains the source code, notebooks, and supporting files develo
 - **SAS_Viya2026_XG.ipynb**  
   Optimization notebook dedicated to improving model performance through XG Boost hyperparameter tuning and feature selection experiments.
 
-- **submission.csv**  
+- **submission_XGB_Deeper.csv**  
   Final competition submission generated from the best-performing model.
-
-- **gradient_boosting_results.csv**  
-  Performance comparison of all Gradient Boosting hyperparameter experiments.
 
 - **README.md**  
   Project documentation.
