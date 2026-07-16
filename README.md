@@ -9,8 +9,8 @@ This repository contains the source code, notebooks, and supporting files develo
 - **SAS_Viya2026.ipynb**  
   Primary notebook containing the complete data preparation, exploratory analysis, preprocessing, model benchmarking, and submission workflow.
 
-- **SAS_Viya2026_Optimization.ipynb**  
-  Optimization notebook dedicated to improving model performance through Gradient Boosting hyperparameter tuning and feature selection experiments.
+- **SAS_Viya2026_XG.ipynb**  
+  Optimization notebook dedicated to improving model performance through XG Boost hyperparameter tuning and feature selection experiments.
 
 - **submission.csv**  
   Final competition submission generated from the best-performing model.
@@ -34,10 +34,11 @@ The following regression models were evaluated during the experimentation phase:
 - Decision Tree Regressor
 - Forest Regressor
 - Gradient Boosting Regressor
+- XG Boost
 
 ---
 
-## Optimization Strategy
+## XG Boost Optimization Strategy
 
 The optimization process included:
 
